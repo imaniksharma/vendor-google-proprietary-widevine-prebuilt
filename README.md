@@ -1,8 +1,8 @@
 # Prebuilt Widevine DRM L3, pulled from ChromeOS's Hatch Recovery Image
 
-Android image fingerprint : google/hatch/hatch_cheets:11/R107-15117.112.0/9196637:user/release-keys
+Android Image Fingerprint : google/hatch/hatch_cheets:11/R107-15117.112.0/9196637:user/release-keys
 
-## How to integrate into the Android build
+## How to integrate into the Android Build
 
 #### Clone this Repo To: <br> 
 <code> vendor/google/proprietary/widevine-prebuilt </code><br>
